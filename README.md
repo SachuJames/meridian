@@ -1,4 +1,4 @@
-# tickvault
+# meridian
 
 A time-series store for market tick data, in Rust. Trades and quotes go in
 as appends and come back out through time-range queries, stored in
